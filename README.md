@@ -1,7 +1,18 @@
 ### Hi, I'm Kayke Fujinaka! Welcome to my page. 
 
-- 🌱 I’m currently learning HTML, CSS, Node, React and JavaScript
+###   🦊  About me 
+  
+- 🌱 I’m currently learning Node, React and JavaScript
 - 📫 How to reach me: kaykealvesfujinaka@gmail.com
+
+### 📊  2022 Goals:
+
+   * 📂  Expand my portfolio
+   
+   * 🤝  Contribuite in open-source projects
+    
+   * 📈  Gain experience in the area
+
 
 <div align="center">
   <a href="https://github.com/Kayke-Fujinaka">
