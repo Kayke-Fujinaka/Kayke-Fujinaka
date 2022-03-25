@@ -1,34 +1,60 @@
-### Hi, I'm Kayke Fujinaka! Welcome to my page. 
-
-###   🦊  About me 
+<h1 align='center'>
+  Hi, I'm Kayke Fujinaka!
+  <br/>
+  Welcome to my page
   
-- 🌱 I’m currently learning Node, React and JavaScript
-- 📫 How to reach me: kaykealvesfujinaka@gmail.com
+</h1>
 
-### 📊  2022 Goals:
+<p align='center'>
+  Front-End Developer
+</p>
 
-   * 📂  Expand my portfolio
-   
-   * 🤝  Contribuite in open-source projects
-    
-   * 📈  Gain experience in the area
+### 🦊 About me:
 
+<p>
+  <em>
+   I'm 17 years old, I'm from São Paulo and I'm trying to make a living as a developer.
+  </em>
+</p>
 
-<div align="center">
-  <a href="https://github.com/Kayke-Fujinaka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kayke-Fujinaka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Kayke-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kayke-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kayke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+- 🌱 I’m currently learning React, Node and React Native.
+- 🚀 <em>Fullstack development student at DevClub</a>
+- 📫 How to reach me: Kaykealvesfujinaka@gmail.com
 
-   ##
- 
-<div> 
+### 📊 2022 Goals:
+
+- 📂 Expand my portfolio
+
+- 🤝 Contribuite in open-source projects
+
+- 📈 Gain experience in the area
+
+<br/>
+
+### ⚡ Technologies:
+
+These are some of the technologies and tools I work with:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev)
+
+### 📈 My Stats
+
+| My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Kayke-Fujinaka&show_icons=true&hide_border=true&count_private=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact) |
+
+💬 Want to meet me?
+
+<div>
+  <a href="https://www.linkedin.com/in/kayke-fujinaka" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send/?phone=%2B5511961877936&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaykealvesfujinaka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kayke-fujinaka" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/kaykeaf/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/NXGGp4KaQH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+:brain: <a name="id4"></a>_"Seja vocês mesmo, todos os outros já existem."_
+
+<div> 
+  
  
   ![Snake animation](https://github.com/Kayke-Fujinaka/Kayke-Fujinaka/blob/output/github-contribution-grid-snake.svg)
