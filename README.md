@@ -29,8 +29,6 @@
 
 - 📈 Gain experience in the area
 
-<br/>
-
 ### ⚡ Technologies:
 
 These are some of the technologies and tools I work with:
