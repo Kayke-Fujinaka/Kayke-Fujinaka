@@ -39,7 +39,7 @@ These are some of the technologies and tools I work with:
 
 | My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Kayke-Fujinaka&show_icons=true&hide_border=true&count_private=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Kayke-Fujinaka&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
 
 💬 Want to meet me?
 
