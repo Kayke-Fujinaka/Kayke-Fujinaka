@@ -52,7 +52,7 @@ These are some of the technologies and tools I work with:
 
 <div>
 <br>
-:brain: <a name="id4"></a>_"Seja você mesmo, todos os outros já existem."_
+:brain: <a name="id4"></a>"Seja você mesmo, todos os outros já existem."
   
  
   ![Snake animation](https://github.com/Kayke-Fujinaka/Kayke-Fujinaka/blob/output/github-contribution-grid-snake.svg)
