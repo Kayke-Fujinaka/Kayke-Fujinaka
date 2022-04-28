@@ -33,7 +33,7 @@
 
 These are some of the technologies and tools I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,bootstrap,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,bootstrap)](https://skillicons.dev)
 
 ### 📈 My Stats
 
