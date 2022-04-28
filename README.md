@@ -53,6 +53,3 @@ These are some of the technologies and tools I work with:
 <br>
 <p>🧠 <spam style="font-style:italic">"Seja você mesmo, todos os outros já existem."</spam></p>
 
-  
- 
-  ![Snake animation](https://github.com/Kayke-Fujinaka/Kayke-Fujinaka/blob/output/github-contribution-grid-snake.svg)
