@@ -1,12 +1,11 @@
 <h1 align='center'>
-  Hi, I'm Kayke Fujinaka!
+  Olá, sou Kayke Fujinaka!
   <br/>
-  Welcome to my page
-  
+  Bem vindo a minha pagina
 </h1>
 
 <p align='center'>
-  Front-End Developer
+  Desenvolvedor Front-End
 </p>
 
 ### 🦊 Sobre mim:
