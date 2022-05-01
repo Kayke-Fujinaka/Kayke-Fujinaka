@@ -9,39 +9,39 @@
   Front-End Developer
 </p>
 
-### 🦊 About me:
+### 🦊 Sobre mim:
 
 <p>
   <em>
-   I'm 17 years old, I'm from São Paulo and I'm trying to make a living as a developer.
+    Tenho 17 anos, sou de São Paulo e estou seguindo uma jornada para me tornar um desenvolvedor.
   </em>
 </p>
 
-- 🌱 I’m currently learning React, Node and React Native.
-- 🚀 <em>Fullstack development student at DevClub</a>
-- 📫 How to reach me: Kaykealvesfujinaka@gmail.com
+- 🌱 Atualmente estou aprendendo ReactJs, NodeJs e React Native.
+- 🚀 <em>Aluno do curso DevClub</a>
+- 📫 Meu email: Kaykealvesfujinaka@gmail.com
 
-### 📊 2022 Goals:
+### 📊 Metas 2022:
 
-- 📂 Expand my portfolio
+- 📂 Expandir meu portfólio
 
-- 🤝 Contribuite in open-source projects
+- 🤝 Contribuir em projetos open-source
 
-- 📈 Gain experience in the area
+- 📈 Conseguir experiência na área
 
-### ⚡ Technologies:
+### ⚡ Tecnologias:
 
-These are some of the technologies and tools I work with:
+Estas são algumas das tecnologias e ferramentas que trabalho:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,bootstrap)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,bootstrap)](https://skillicons.dev)
 
 ### 📈 My Stats
 
-| My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                     |
+| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Kayke-Fujinaka&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
-💬 Want to meet me?
+💬 Quer me conhecer?
 
 <div>
   <a href="https://www.linkedin.com/in/kayke-fujinaka" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
