@@ -1,7 +1,7 @@
 <h1 align='center'>
-  Olá, sou Kayke Fujinaka!
+  Olá, sou o Kayke Fujinaka!
   <br/>
-  Bem vindo a minha pagina
+  Bem vindo a minha página :)
 </h1>
 
 <p align='center'>
