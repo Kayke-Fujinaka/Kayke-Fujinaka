@@ -17,7 +17,7 @@
 </p>
 
 - 🌱 Atualmente estou aprendendo ReactJs, NodeJs e React Native.
-- 🚀 <em>Aluno do curso DevClub</a>
+- 🚀 Aluno do curso DevClub
 - 📫 Meu email: Kaykealvesfujinaka@gmail.com
 
 ### 📊 Metas 2022:
