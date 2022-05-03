@@ -34,7 +34,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,bootstrap)](https://skillicons.dev)
 
-### 📈 My Stats
+### 📈 Minhas Estatísticas
 
 | Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
