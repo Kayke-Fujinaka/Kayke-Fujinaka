@@ -8,10 +8,6 @@
   Desenvolvedor Front-End
 </p>
 
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/kayke-fujinaka/count.svg" />  
-</p>
-
 ### 🦊 Sobre mim:
 
 <p>
