@@ -17,8 +17,8 @@
 </p>
 
 - 🌱 Atualmente estou aprendendo Typescript, NextJS e Jest.
-- 🚀 Aluno do curso DevClub
-- 📫 Meu email: Kaykealvesfujinaka@gmail.com
+- 🚀 Estudante da Rocketseat e DevClub
+- 📫 Meu email: kaykealvesfujinaka@gmail.com
 
 ### 📊 Metas 2022:
 
