@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou aprendendo ReactJs, NodeJs e React Native.
+- 🌱 Atualmente estou aprendendo Typescript, NextJS e Jest.
 - 🚀 Aluno do curso DevClub
 - 📫 Meu email: Kaykealvesfujinaka@gmail.com
 
