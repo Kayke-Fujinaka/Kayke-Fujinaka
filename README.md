@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 17 anos, sou de São Paulo e estou seguindo uma jornada para me tornar um desenvolvedor.
+    Tenho 18 anos, sou de São Paulo e estou seguindo uma jornada para me tornar um desenvolvedor.
   </em>
 </p>
 
@@ -32,7 +32,8 @@
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,sass,firebase,bootstrap,materialui,nodejs,express)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,styledcomponents,sass,nodejs,firebase
+)](https://skillicons.dev)
 
 ### 📈 Minhas Estatísticas
 
