@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 18 anos, sou de São Paulo e estou seguindo uma jornada para me tornar um desenvolvedor.
+    Tenho 18 anos, sou de São Paulo e atualmente estou trabalhando como um Dsenvolvedor Front-End no Grupo GCB
   </em>
 </p>
 
