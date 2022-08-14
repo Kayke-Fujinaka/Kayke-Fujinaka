@@ -26,7 +26,7 @@
 
 - 🤝 Contribuir em projetos open-source
 
-- 📈 Conseguir experiência na área
+- 📈 Conseguir uma experiência na área
 
 ### ⚡ Tecnologias:
 
