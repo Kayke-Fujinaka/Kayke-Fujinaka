@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 18 anos, sou de São Paulo e atualmente estou trabalhando como um Dsenvolvedor Front-End no Grupo GCB
+    Tenho 18 anos, sou de São Paulo e atualmente estou trabalhando como um Desenvolvedor Front-End no Grupo GCB
   </em>
 </p>
 
