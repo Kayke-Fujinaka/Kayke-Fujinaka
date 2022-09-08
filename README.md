@@ -32,7 +32,7 @@
 
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,styledcomponents,sass,nodejs,firebase
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,styledcomponents,sass,tailwind,docker,nodejs,firebase,mongodb
 )](https://skillicons.dev)
 
 ### 📈 Minhas Estatísticas
