@@ -5,28 +5,32 @@
 </h1>
 
 <p align='center'>
-  Desenvolvedor Front-End
+  Desenvolvedor Lead e Front-End
 </p>
 
 ### 🌻 Sobre mim:
 
 <p>
   <em>
-    Tenho 18 anos, sou de São Paulo e atualmente estou trabalhando como um Desenvolvedor Front-End no Grupo GCB
+    Tenho 18 anos, sou de São Paulo e atualmente estou trabalhando como um Desenvolvedor Lead e Front-End no Grupo GCB
   </em>
 </p>
 
-- 🌱 Atualmente estou aprendendo Typescript, NextJS e Jest.
-- 🚀 Estudante da Rocketseat e DevClub
+- 🌱 Atualmente estou aprendendo React Native, NextJS e Jest.
+- 🚀 Estudante da Rocketseat, Udemy, Full Cycle e DevClub
 - 📫 Meu email: kaykealvesfujinaka@gmail.com
 
 ### 📊 Metas 2022:
 
-- 📂 Expandir meu portfólio
+- 📂 Expandir meu portfólio [✅]
 
-- 🤝 Contribuir em projetos open-source
+- 🤝 Contribuir em projetos open-source [✅]
 
-- 📈 Conseguir uma experiência na área
+- 📈 Conseguir uma experiência na área [✅]
+
+- 📖 Expandir meu conhecimento com livros e aprendendo com pessoas
+
+- 💙 Me tornar um Lead [✅]
 
 ### ⚡ Tecnologias:
 
