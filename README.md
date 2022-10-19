@@ -51,5 +51,5 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
   <a href="https://discord.gg/NXGGp4KaQH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <br>
-<p>🧠 <spam style="font-style:italic">"Seja você mesmo, todos os outros já existem."</spam></p>
+<p>🧠 <span style="font-style:italic">"Seja você mesmo, todos os outros já existem."</span></p>
 
