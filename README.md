@@ -30,8 +30,6 @@
 
 - 📖 Expandir meu conhecimento com livros e aprendendo com pessoas
 
-- 💙 Me tornar um Lead [✅]
-
 ### ⚡ Tecnologias:
 
 Estas são algumas das tecnologias e ferramentas que utilizo:
