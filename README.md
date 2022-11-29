@@ -24,11 +24,11 @@
 
 - 📂 Expandir meu portfólio [✅]
 
-- 🤝 Contribuir em projetos open-source [✅]
+- 🤝 Contribuir em projetos open-source []
 
 - 📈 Conseguir uma experiência na área [✅]
 
-- 📖 Expandir meu conhecimento com livros e aprendendo com pessoas
+- 📖 Expandir meu conhecimento com livros e pessoas
 
 ### ⚡ Tecnologias:
 
