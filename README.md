@@ -24,7 +24,7 @@
 
 - 📂 Expandir meu portfólio [✅]
 
-- 🤝 Contribuir em projetos open-source []
+- 🤝 Contribuir em projetos open-source [ ]
 
 - 📈 Conseguir uma experiência na área [✅]
 
