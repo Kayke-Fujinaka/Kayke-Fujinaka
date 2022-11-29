@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou aprendendo React Native, NextJS e Jest.
+- 🌱 Atualmente estou aprendendo NextJS, NestJs e Jest.
 - 🚀 Estudante da Rocketseat, Udemy, Full Cycle e DevClub
 - 📫 Meu email: kaykealvesfujinaka@gmail.com
 
