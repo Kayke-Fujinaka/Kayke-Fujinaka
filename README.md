@@ -5,37 +5,46 @@
 </h1>
 
 <p align='center'>
-  Desenvolvedor Lead e Front-End
+  Tech Lead e Full Stack
 </p>
 
 ### 🌻 Sobre mim:
 
 <p>
   <em>
-    Tenho 18 anos, sou de São Paulo e atualmente estou trabalhando como um Desenvolvedor Lead e Front-End no Grupo GCB
+    Tenho 18 anos, sou de São Paulo e atualmente estou trabalhando como um Tech Lead e Full Stack no Grupo GCB
   </em>
 </p>
 
-- 🌱 Atualmente estou aprendendo NextJS, NestJs e Jest.
-- 🚀 Estudante da Rocketseat, Udemy, Full Cycle e DevClub
+- 🌱 Estudando e aprimorando meus conhecimentos em Next.js, NestJS, Typescript e Jest.
+- 🚀 Estudante do Devclub, Rocketseat, Full Cycle e Manguinho
 - 📫 Meu email: kaykealvesfujinaka@gmail.com
 
-### 📊 Metas 2022:
+### 📊 Metas 2023:
 
-- 📂 Expandir meu portfólio [✅]
+- 📚 Não parar de buscar conhecimentos com pessoas e máterias de estudos []
 
-- 🤝 Contribuir em projetos open-source [ ]
+- ⭐ Expandir e melhorar minhas habilidades como líder []
 
-- 📈 Conseguir uma experiência na área [✅]
+- 💙 Conhecer pessoas incríveis nesse ano e podendo fazer parte da história delas []
 
-- 📖 Expandir meu conhecimento com livros e pessoas
+- 📋 Fazer um projeto pessoal que aplique todos os conhecimentos obtidos ao longo da minha jornada, além de implementar novas tecnologias []
 
 ### ⚡ Tecnologias:
 
 Estas são algumas das tecnologias e ferramentas que utilizo:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,styledcomponents,sass,tailwind,docker,nodejs,firebase,mongodb
-)](https://skillicons.dev)
+- Front-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,next,styledcomponents,tailwind,jest,bootstrap,materialui)](https://skillicons.dev)
+
+- Back-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,nest,docker,prisma,sqlite,mongodb,mysql,postgres,firebase)](https://skillicons.dev)
+
+- Ferramentas e Plataformas
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,githubactions,gitlab,postman,figma,linux)](https://skillicons.dev)
 
 ### 📈 Minhas Estatísticas
 
@@ -53,5 +62,5 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
   <a href="https://discord.gg/NXGGp4KaQH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <br>
-<p>🧠 <span style="font-style:italic">"Seja você mesmo, todos os outros já existem."</span></p>
+<p>🧠 <span style="font-style:italic">"A aprendizagem é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."</span></p>
 
