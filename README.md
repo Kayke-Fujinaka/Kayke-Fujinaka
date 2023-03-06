@@ -22,13 +22,13 @@
 
 ### 📊 Metas 2023:
 
-- 📚 Não parar de buscar conhecimentos com pessoas e máterias de estudos []
+- 📚 Não parar de buscar conhecimentos com pessoas e máterias de estudos
 
-- ⭐ Expandir e melhorar minhas habilidades como líder []
+- ⭐ Expandir e melhorar minhas habilidades como líder
 
-- 💙 Conhecer pessoas incríveis nesse ano e podendo fazer parte da história delas []
+- 💙 Conhecer pessoas e lugares incríveis nesse ano e podendo fazer parte da história delas
 
-- 📋 Fazer um projeto pessoal que aplique todos os conhecimentos obtidos ao longo da minha jornada, além de implementar novas tecnologias []
+- 📋 Fazer um projeto pessoal que aplique todos os conhecimentos obtidos ao longo da minha jornada, além de implementar novas tecnologias
 
 ### ⚡ Tecnologias:
 
