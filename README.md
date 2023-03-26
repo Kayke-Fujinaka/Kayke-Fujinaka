@@ -1,38 +1,37 @@
 <h1 align='center'>
-  Olá, sou o Kayke Fujinaka!
+  Hello, I'm Kayke Fujinaka!
   <br/>
-  Bem vindo a minha página :)
+  Welcome to my page :)
 </h1>
-
 <p align='center'>
-  Tech Lead e Full Stack
+  Tech Lead and Full Stack
 </p>
 
-### 🌻 Sobre mim:
+### 🌻 About Me:
 
 <p>
   <em>
-    Tenho 18 anos, sou de São Paulo e atualmente estou trabalhando como um Tech Lead e Full Stack no Grupo GCB
+    I'm 18 years old, from São Paulo and currently working as a Tech Lead and Full Stack at Grupo GCB.
   </em>
 </p>
 
-- 🌱 Estudando e aprimorando meus conhecimentos em Next.js, NestJS, Typescript e Jest.
-- 🚀 Estudante do Devclub, Rocketseat, Full Cycle e Manguinho
-- 📫 Meu email: kaykealvesfujinaka@gmail.com
+- 🌱 Studying and improving my skills in Next.js, NestJS and Jest.
+- 🚀 Student at Devclub, Rocketseat, Full Cycle and Manguinho
+- 📫 My email: kaykealvesfujinaka@gmail.com
 
-### 📊 Metas 2023:
+### 📊 2023 Goals:
 
-- 📚 Não parar de buscar conhecimentos com pessoas e máterias de estudos
+- 📚 Keep seeking knowledge from people and study materials
 
-- ⭐ Expandir e melhorar minhas habilidades como líder
+- ⭐ Expand and improve my leadership skills
 
-- 💙 Conhecer pessoas e lugares incríveis nesse ano e podendo fazer parte da história delas
+- 💙 Meet amazing people and places this year and be part of their story
 
-- 📋 Fazer um projeto pessoal que aplique todos os conhecimentos obtidos ao longo da minha jornada, além de implementar novas tecnologias
+- 📋 Create a personal project that applies all the knowledge obtained throughout my journey, as well as implementing new technologies.
 
-### ⚡ Tecnologias:
+### ⚡ Technologies:
 
-Estas são algumas das tecnologias e ferramentas que utilizo:
+These are some of the technologies and tools I use:
 
 - Front-End
 
@@ -42,17 +41,17 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,nest,docker,prisma,sqlite,mongodb,mysql,postgres,firebase)](https://skillicons.dev)
 
-- Ferramentas e Plataformas
+- Tools and Plataforms
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,githubactions,gitlab,postman,figma,linux)](https://skillicons.dev)
 
-### 📈 Minhas Estatísticas
+### 📈 My Statistics
 
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Kayke-Fujinaka&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
-💬 Quer me conhecer?
+💬 Want to get in touch?
 
 <div>
   <a href="https://www.linkedin.com/in/kayke-fujinaka" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -62,5 +61,5 @@ Estas são algumas das tecnologias e ferramentas que utilizo:
   <a href="https://discord.gg/NXGGp4KaQH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 <br>
-<p>🧠 <span style="font-style:italic">"A aprendizagem é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende."</span></p>
+<p>🧠 <span style="font-style:italic">"Learning is the only thing the mind never exhausts, never fears, and never regrets."</span></p>
 
