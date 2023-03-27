@@ -51,6 +51,11 @@ These are some of the technologies and tools I use:
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Kayke-Fujinaka&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
+
+| My Streak                                                                                                                                                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=Kayke-Fujinaka&theme=jolly)](https://git.io/streak-stats) |
+
 💬 Want to get in touch?
 
 <div>
