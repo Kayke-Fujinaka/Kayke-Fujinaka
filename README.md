@@ -11,12 +11,12 @@
 
 <p>
   <em>
-    I'm 18 years old, from São Paulo and currently working as a Tech Lead and Full Stack at Grupo GCB.
+    I'm 19 years old, from São Paulo and currently working as a Tech Lead and Full Stack at Grupo GCB.
   </em>
 </p>
 
-- 🌱 Studying and improving my skills in Next.js, NestJS and Jest.
-- 🚀 Student at Devclub, Rocketseat, Full Cycle and Manguinho
+- 🌱 Studying and improving my skills in Next.js and NestJS.
+- 🚀 Student at Full Cycle and Manguinho
 - 📫 My email: kaykealvesfujinaka@gmail.com
 
 ### 📊 2023 Goals:
