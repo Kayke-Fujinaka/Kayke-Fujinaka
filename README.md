@@ -15,19 +15,17 @@
   </em>
 </p>
 
-- 📚 Studying and improving my skills in System Performance, Tests, NestJS and API Gateway.
-- 🚀 Student at Rocketseat, Full Cycle and Devclub.
+- 📚 Studying and improving my skills in NestJS, Observability and Design Patterns.
+- 🚀 Student at FIAP and Full Cycle.
 - 📫 My personal email: kaykealvesfujinaka@gmail.com
 
-### 📊 2023 Goals:
+### 📊 2024 Goals:
 
-- 📚 Enhance my hard skills.
-
-- ⭐ Enhance my leadership skills by mentoring two groups and attending events/courses.
-
-- 💙 Meet amazing people and places this year and be part of their story
+- 📚 I will become a mid level developer.
 
 - 📋 Create a personal project that applies all the knowledge obtained throughout my journey, as well as implementing new technologies.
+
+- 💙 I will arrive in the one piece weekly.
 
 ### ⚡ Technologies:
 
@@ -43,11 +41,15 @@ These are some of the technologies and tools I use:
 
 - Backend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=express,nest,docker,prisma,sqlite,mongodb,mysql,postgres,firebase,kafka)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=express,nest,docker,prisma,jest,firebase,kafka,graphql)](https://skillicons.dev)
 
-- Tools and Plataforms
+- Database
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,githubactions,gitlab,postman,figma,linux,grafana)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite)](https://skillicons.dev)
+
+- Tools
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,gitlab,vitest,grafana,elasticsearch,figma,postman)](https://skillicons.dev)
 
 ### 📈 My Statistics
 
