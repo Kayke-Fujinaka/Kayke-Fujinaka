@@ -4,28 +4,20 @@
   Welcome to my page :)
 </h1>
 <p align='center'>
-  Fullstack
+  Software Engineer Fullstack
 </p>
 
 ### 🌻 About Me:
 
 <p>
   <em>
-    I'm 19 years old, from São Paulo and currently working as a Fullstack at Grupo GCB.
+    I'm 20 years old, from São Paulo and currently working as a Software Engineer Fullstack.
   </em>
 </p>
 
-- 📚 Studying and improving my skills in NestJS, Observability and Design Patterns.
-- 🚀 Student at FIAP and Full Cycle.
-- 📫 My personal email: kaykealvesfujinaka@gmail.com
-
-### 📊 2024 Goals:
-
-- 📚 I will become a mid level developer.
-
-- 📋 Create a personal project that applies all the knowledge obtained throughout my journey, as well as implementing new technologies.
-
-- 💙 I will arrive in the one piece weekly.
+- 📚 Studying and improving my skills in Java and Design Patterns.
+- 🚀 Student at FIAP.
+- 📫 Personal email: kaykealvesfujinaka@gmail.com
 
 ### ⚡ Technologies:
 
@@ -33,23 +25,23 @@ These are some of the technologies and tools I use:
 
 - Languages
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,go,java,py)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,nodejs,java,py,go)](https://skillicons.dev)
 
 - Frontend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,jquery,react,next,redux,sass,styledcomponents,tailwind,jest,bootstrap,materialui,gulp)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=html,css,jquery,babel,react,next,redux,sass,styledcomponents,tailwind,bootstrap,materialui,gulp,vite,vitest,cypress,jest,androidstudio)](https://skillicons.dev)
 
 - Backend
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=express,nest,docker,prisma,jest,firebase,kafka,graphql)](https://skillicons.dev)
+[![Back-end](https://skillicons.dev/icons?i=express,nest,prisma,firebase,kafka,graphql,maven,spring,django)](https://skillicons.dev)
 
 - Database
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite)](https://skillicons.dev)
 
 - Tools
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=aws,azure,git,github,githubactions,gitlab,vitest,grafana,elasticsearch,figma,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,azure,docker,eclipse,elasticsearch,figma,git,github,githubactions,gitlab,grafana,idea,npm,postman,prometheus,terraform,vim,vscode,yarn)](https://skillicons.dev)
 
 ### 📈 My Statistics
 
