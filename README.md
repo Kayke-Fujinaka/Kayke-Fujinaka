@@ -15,7 +15,7 @@
   </em>
 </p>
 
-- 📚 Studying and improving my skills in Java and Design Patterns.
+- 📚 Studying and improving my skills in Next.js and AI.
 - 🚀 Student at FIAP.
 - 📫 Personal email: kaykealvesfujinaka@gmail.com
 
@@ -25,11 +25,11 @@ These are some of the technologies and tools I use:
 
 - Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,nodejs,java,py,go)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,nodejs,java,py,go,dotnet,cs)](https://skillicons.dev)
 
 - Frontend
 
-[![Front-end](https://skillicons.dev/icons?i=html,css,jquery,babel,react,next,redux,sass,styledcomponents,tailwind,bootstrap,materialui,gulp,vite,vitest,cypress,jest,androidstudio)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=html,css,jquery,babel,react,next,redux,sass,styledcomponents,tailwind,bootstrap,materialui,gulp,vite,vitest,cypress,jest,androidstudio,kotlin)](https://skillicons.dev)
 
 - Backend
 
@@ -41,18 +41,13 @@ These are some of the technologies and tools I use:
 
 - Tools
 
-[![Tools](https://skillicons.dev/icons?i=aws,azure,docker,eclipse,elasticsearch,figma,git,github,githubactions,gitlab,grafana,idea,npm,postman,prometheus,terraform,vim,vscode,yarn)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,eclipse,elasticsearch,figma,git,github,githubactions,gitlab,grafana,idea,npm,postman,prometheus,terraform,vim,vscode,yarn,ae,ps)](https://skillicons.dev)
 
 ### 📈 My Statistics
 
 | My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Kayke-Fujinaka&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
-
-
-| My Streak                                                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=Kayke-Fujinaka&theme=jolly)](https://git.io/streak-stats) |
 
 💬 Want to get in touch?
 
