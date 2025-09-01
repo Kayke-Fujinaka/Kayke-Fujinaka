@@ -25,15 +25,15 @@ These are some of the technologies and tools I use:
 
 - Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,nodejs,java,py,go,dotnet,cs)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,nodejs)](https://skillicons.dev)
 
 - Frontend
 
-[![Front-end](https://skillicons.dev/icons?i=html,css,jquery,babel,react,next,redux,sass,styledcomponents,tailwind,bootstrap,materialui,gulp,vite,vitest,cypress,jest,androidstudio,kotlin)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=html,css,react,next,redux,sass,styledcomponents,tailwind,bootstrap,materialui,vite,vitest,cypress,jest,androidstudio,kotlin)](https://skillicons.dev)
 
 - Backend
 
-[![Back-end](https://skillicons.dev/icons?i=express,nest,prisma,firebase,kafka,graphql,maven,spring,django)](https://skillicons.dev)
+[![Back-end](https://skillicons.dev/icons?i=express,nest,prisma,firebase,kafka,graphql)](https://skillicons.dev)
 
 - Database
 
@@ -41,7 +41,7 @@ These are some of the technologies and tools I use:
 
 - Tools
 
-[![Tools](https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,eclipse,elasticsearch,figma,git,github,githubactions,gitlab,grafana,idea,npm,postman,prometheus,terraform,vim,vscode,yarn,ae,ps)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,eclipse,elasticsearch,figma,git,github,githubactions,gitlab,grafana,idea,npm,postman,prometheus,terraform,vscode,yarn,ae,ps)](https://skillicons.dev)
 
 ### 📈 My Statistics
 
