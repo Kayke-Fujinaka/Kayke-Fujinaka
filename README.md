@@ -1,53 +1,65 @@
 <h1 align='center'>
-  Hello, I'm Kayke Fujinaka!
-  <br/>
-  Welcome to my page :)
+  Hi, I'm Kayke Fujinaka!
 </h1>
 <p align='center'>
-  Software Engineer Fullstack
+  AI Engineer & Software Engineer
 </p>
 
-### 🌻 About Me:
+### ☀️ About Me:
 
 <p>
   <em>
-    I'm 20 years old, from São Paulo and currently working as a Software Engineer Fullstack.
+    Building production-ready AI agents, LLM applications and scalable software.
   </em>
 </p>
 
-- 📚 Studying and improving my skills in Next.js and AI.
-- 🚀 Student at FIAP.
-- 📫 Personal email: kaykealvesfujinaka@gmail.com
+- 🤖 Building AI Agents, RAG pipelines and LLM-powered applications
+- 🧩 Working with Agentic Workflows, Multi-Agent Systems, MCP, Context & Memory
+- ☁️ Experience with AWS, Azure, GCP and OCI
+- 🎓 Postgraduate student in Software Engineering at USP
+- 📫 Email: kaykealvesfujinaka@gmail.com
 
-### ⚡ Technologies:
+### 🤖 AI & LLM Engineering
 
-These are some of the technologies and tools I use:
+**Core Concepts**
 
-- Languages
+`AI Agents` · `LLMs` · `RAG` · `Agentic RAG` · `Prompt Engineering` · `Context Engineering` · `Context Management` · `Memory` · `Vector Databases` · `Multi-Agent Systems` · `Agentic Workflows` · `MCP` · `LLM Evaluation` · `Human-in-the-Loop` · `Fallback Strategies` · `Fine-Tuning`
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,nodejs)](https://skillicons.dev)
+**Frameworks & Tools**
 
-- Frontend
+`LangChain` · `LangGraph` · `LangFlow` · `LangSmith` · `OpenAI` · `Anthropic Claude` · `Google Gemini`
 
-[![Front-end](https://skillicons.dev/icons?i=html,css,react,next,redux,sass,styledcomponents,tailwind,bootstrap,materialui,vite,vitest,cypress,jest,androidstudio,kotlin)](https://skillicons.dev)
+---
 
-- Backend
+### ⚡ Tech Stack
 
-[![Back-end](https://skillicons.dev/icons?i=express,nest,prisma,firebase,kafka,graphql)](https://skillicons.dev)
+#### Languages
 
-- Database
+`Python` · `JavaScript` · `TypeScript` · `Go`
 
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite)](https://skillicons.dev)
+#### Backend & APIs
 
-- Tools
+`FastAPI` · `Django` · `Flask` · `Node.js` · `NestJS` · `Fastify` · `Express.js` · `Prisma` · `TypeORM` · `REST APIs` · `WebSockets`
 
-[![Tools](https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,eclipse,elasticsearch,figma,git,github,githubactions,gitlab,grafana,idea,npm,postman,prometheus,terraform,vscode,yarn,ae,ps)](https://skillicons.dev)
+#### Frontend
 
-### 📈 My Statistics
+`React` · `Next.js` · `React Native` · `TailwindCSS` · `Zustand` · `React Query` · `Redux` · `Storybook`
 
-| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Kayke-Fujinaka&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
+#### Databases & Messaging
+
+`PostgreSQL` · `MongoDB` · `Redis` · `Kafka` · `RabbitMQ` · `BullMQ`
+
+#### Cloud & DevOps
+
+`AWS` · `Azure` · `GCP` · `OCI` · `Firebase` · `Docker` · `Terraform` · `CI/CD` · `GitHub Actions` · `GitLab CI`
+
+#### Observability & Quality
+
+`Grafana` · `Prometheus` · `New Relic` · `Datadog` · `Unit Testing` · `Integration Testing` · `E2E Testing`
+
+#### Software Engineering
+
+`Distributed Systems` · `Microservices` · `Event-Driven Architecture` · `Clean Architecture` · `Clean Code` · `SOLID` · `Design Patterns`
 
 💬 Want to get in touch?
 
